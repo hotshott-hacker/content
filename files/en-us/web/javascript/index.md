@@ -19,7 +19,7 @@ Do not confuse JavaScript with the [Java programming language](<https://en.wikip
 JavaScript documentation of core language features (pure [ECMAScript](/en-US/docs/Web/JavaScript/JavaScript_technologies_overview), for the most part) includes the following:
 
 - The [JavaScript guide](/en-US/docs/Web/JavaScript/Guide)
-- The [JavaScript reference](/en-US/docs/Web/JavaScript/Reference)
+- The (JavaScript reference)[/en-US/docs/Web/JavaScript/Reference]
 
 For more information about JavaScript specifications and related technologies, see [JavaScript technologies overview](/en-US/docs/Web/JavaScript/JavaScript_technologies_overview).
 
